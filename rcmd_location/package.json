@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "mongoose": "^5.12.0",
+    "mongoose": "^5.12.2",
     "openbuilder-node": "^0.3.0"
   }
 }
